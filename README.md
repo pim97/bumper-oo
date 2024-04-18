@@ -3,9 +3,9 @@ Bumper-oo.com is your go-to platform for effortlessly boosting your presence in 
 
 This website was created using my open-source project, the **Vue3-Tailwind-Flowbite-Starter-Kit**. It leverages Vue 3, Tailwind CSS, Flowbite, and Vite to provide a solid foundation for building modern web applications. Also features a white/dark mode.
 
-![Bumper-oo.com]([https://i.imgur.com/ViCZTjs.png](https://i.imgur.com/QS8gesY.png))
+![Bumper-oo.com](https://i.imgur.com/QS8gesY.png)
 
-![Bumper-oo User Panel]([https://imgur.com/FQsO8MF.png](https://i.imgur.com/gkWsPUO.png))
+![Bumper-oo User Panel](https://i.imgur.com/gkWsPUO.png)
 
 ## Features
 
