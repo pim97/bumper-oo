@@ -37,5 +37,8 @@ Bumper-oo.com provides various support channels, including documentation, freque
 **What is the pricing structure?**
 Bumper-oo.com offers simple and transparent pricing. You pay per bump or post, with no hidden fees or complicated pricing tiers. Enjoy the flexibility to pay for what you use, making it affordable and fair for all your thread boosting needs.
 
+**What websites are available?**
+
+
 Start Boosting Threads Now!
 [Register Now](https://bumper-oo.com/) or [Join our Discord community](https://discord.gg/7uV6H4XHFM)
